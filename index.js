@@ -8,4 +8,4 @@ myMap.set("Key5","Bhutan")
 myMap.set("Key6","Maldivs")
 myMap.set("Key7","Thailand")
 
-console.log(myMap.values());
+console.log(myMap.keys());
